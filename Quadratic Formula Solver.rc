@@ -61,8 +61,8 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_UK
 //
 
 VS_VERSION_INFO VERSIONINFO
- FILEVERSION 0,1,0,0
- PRODUCTVERSION 0,1,0,0
+ FILEVERSION 2,0,3,0
+ PRODUCTVERSION 2,0,0,0
  FILEFLAGSMASK 0x3fL
 #ifdef _DEBUG
  FILEFLAGS 0x1L
@@ -77,14 +77,14 @@ BEGIN
     BEGIN
         BLOCK "080904b0"
         BEGIN
-            VALUE "CompanyName", "???"
+            VALUE "CompanyName", "???'s Nonexistant Company"
             VALUE "FileDescription", "Enter in the a, b, and c values of a quadratic equation to solve"
-            VALUE "FileVersion", "0.1"
-            VALUE "InternalName", "Quadratic Solver.exe"
+            VALUE "FileVersion", "2.0.3.0"
+            VALUE "InternalName", "Catto Type Software"
             VALUE "LegalCopyright", "Copyright (C) 2021"
             VALUE "OriginalFilename", "Quadratic Solver.exe"
             VALUE "ProductName", "Quadratic Solver.exe"
-            VALUE "ProductVersion", "0.1.0.0"
+            VALUE "ProductVersion", "2.0.0.0"
         END
     END
     BLOCK "VarFileInfo"
